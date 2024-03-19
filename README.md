@@ -9,11 +9,6 @@
 
 Simply choose a time for the reminder, enter a title and your note and you are good to go!
 
-<p align="center">
-<a href='https://play.google.com/store/apps/details?id=com.varadgauthankar.simple_reminder'>
-<img style= "border-radius : 8px " height="100px"" src="screenshots/google-play-badge.png" alt="gymlog"/>
-</a>
-</p>
 
 ## Screenshots
 
